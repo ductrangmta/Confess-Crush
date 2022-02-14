@@ -16,4 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu vợ của anh nhiều lắm 😘😘',
     messDesc: 'Tình yêu của anh, ngày lễ tình nhân thật tuyệt vời nhé.',
     btnAccept: 'Yêu anh <3',
-    messLink: 'https://zingmp3.vn/album/Yeu-Em-Rat-Nhieu-Single-Hoang-Ton/ZO6977A8.html'}
+    messLink: 'https://zingmp3.vn/album/Yeu-Em-Rat-Nhieu-Single-Hoang-Ton/ZO6977A8.html' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
